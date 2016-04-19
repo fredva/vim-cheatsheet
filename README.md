@@ -75,6 +75,7 @@ See [vinegar](https://github.com/tpope/vim-vinegar)-spesific shortcuts.
 - vim matchit
 - vim autoclose
 - closetag
+- NERDCommenter
 
 ## resources
 
