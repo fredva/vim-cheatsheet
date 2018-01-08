@@ -55,7 +55,7 @@ Split and open netrw
 - `R` Rename
 - `s` Change sort
 
-See [vinegar](https://github.com/tpope/vim-vinegar)-spesific shortcuts.
+See [vinegar](https://github.com/tpope/vim-vinegar)-specific shortcuts.
 
 
 
